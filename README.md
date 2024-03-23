@@ -1,2 +1,2 @@
-#To run the app type "make"
-#To clean all object files type "make clean"
+. To run the app type "make"
+. To clean all object files type "make clean"
